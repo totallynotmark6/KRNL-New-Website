@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KRNL-New-Website/static/css/main.94d0849e.css",
-    "main.js": "/KRNL-New-Website/static/js/main.91a0dee1.js",
+    "main.js": "/KRNL-New-Website/static/js/main.efbe17f7.js",
     "static/js/787.cf28d026.chunk.js": "/KRNL-New-Website/static/js/787.cf28d026.chunk.js",
     "index.html": "/KRNL-New-Website/index.html",
     "main.94d0849e.css.map": "/KRNL-New-Website/static/css/main.94d0849e.css.map",
-    "main.91a0dee1.js.map": "/KRNL-New-Website/static/js/main.91a0dee1.js.map",
+    "main.efbe17f7.js.map": "/KRNL-New-Website/static/js/main.efbe17f7.js.map",
     "787.cf28d026.chunk.js.map": "/KRNL-New-Website/static/js/787.cf28d026.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d0849e.css",
-    "static/js/main.91a0dee1.js"
+    "static/js/main.efbe17f7.js"
   ]
 }
