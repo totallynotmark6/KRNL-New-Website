@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/KRNL-New-Website/static/css/main.94d0849e.css",
-    "main.js": "/KRNL-New-Website/static/js/main.efbe17f7.js",
-    "static/js/787.cf28d026.chunk.js": "/KRNL-New-Website/static/js/787.cf28d026.chunk.js",
-    "index.html": "/KRNL-New-Website/index.html",
-    "main.94d0849e.css.map": "/KRNL-New-Website/static/css/main.94d0849e.css.map",
-    "main.efbe17f7.js.map": "/KRNL-New-Website/static/js/main.efbe17f7.js.map",
-    "787.cf28d026.chunk.js.map": "/KRNL-New-Website/static/js/787.cf28d026.chunk.js.map"
+    "main.css": "/static/css/main.cd3c9414.css",
+    "main.js": "/static/js/main.6cab451b.js",
+    "static/js/431.073e8206.chunk.js": "/static/js/431.073e8206.chunk.js",
+    "static/js/147.473ebb77.chunk.js": "/static/js/147.473ebb77.chunk.js",
+    "static/js/787.cf28d026.chunk.js": "/static/js/787.cf28d026.chunk.js",
+    "static/js/656.486dc37c.chunk.js": "/static/js/656.486dc37c.chunk.js",
+    "index.html": "/index.html",
+    "main.cd3c9414.css.map": "/static/css/main.cd3c9414.css.map",
+    "main.6cab451b.js.map": "/static/js/main.6cab451b.js.map",
+    "431.073e8206.chunk.js.map": "/static/js/431.073e8206.chunk.js.map",
+    "147.473ebb77.chunk.js.map": "/static/js/147.473ebb77.chunk.js.map",
+    "787.cf28d026.chunk.js.map": "/static/js/787.cf28d026.chunk.js.map",
+    "656.486dc37c.chunk.js.map": "/static/js/656.486dc37c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94d0849e.css",
-    "static/js/main.efbe17f7.js"
+    "static/css/main.cd3c9414.css",
+    "static/js/main.6cab451b.js"
   ]
 }
