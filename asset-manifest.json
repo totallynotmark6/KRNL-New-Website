@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/KRNL-New-Website/static/css/main.cd3c9414.css",
-    "main.js": "/KRNL-New-Website/static/js/main.a6e3a0e0.js",
-    "static/js/431.073e8206.chunk.js": "/KRNL-New-Website/static/js/431.073e8206.chunk.js",
-    "static/js/147.473ebb77.chunk.js": "/KRNL-New-Website/static/js/147.473ebb77.chunk.js",
-    "static/js/787.cf28d026.chunk.js": "/KRNL-New-Website/static/js/787.cf28d026.chunk.js",
-    "static/js/656.486dc37c.chunk.js": "/KRNL-New-Website/static/js/656.486dc37c.chunk.js",
+    "main.css": "/KRNL-New-Website/static/css/main.5029a25c.css",
+    "main.js": "/KRNL-New-Website/static/js/main.397ca8b7.js",
+    "static/js/431.43a0c98f.chunk.js": "/KRNL-New-Website/static/js/431.43a0c98f.chunk.js",
+    "static/js/147.c1127c04.chunk.js": "/KRNL-New-Website/static/js/147.c1127c04.chunk.js",
+    "static/js/182.125062ef.chunk.js": "/KRNL-New-Website/static/js/182.125062ef.chunk.js",
+    "static/media/mark.jpg": "/KRNL-New-Website/static/media/mark.487f559e38d7653a68e6.jpg",
+    "static/media/sophie.jpg": "/KRNL-New-Website/static/media/sophie.65cf6d2c69cb0d276367.jpg",
+    "static/media/trey.jpg": "/KRNL-New-Website/static/media/trey.d3b536fe5ad243619ccb.jpg",
+    "static/media/zoe.jpg": "/KRNL-New-Website/static/media/zoe.28431bac61203682e879.jpg",
+    "static/media/caden.jpg": "/KRNL-New-Website/static/media/caden.57c0994dcf69af8a0131.jpg",
+    "static/media/grayson.jpg": "/KRNL-New-Website/static/media/grayson.cdb736db915c1f867138.jpg",
+    "static/media/adrien.jpg": "/KRNL-New-Website/static/media/adrien.bb0697b78d93ca1130ce.jpg",
     "index.html": "/KRNL-New-Website/index.html",
-    "main.cd3c9414.css.map": "/KRNL-New-Website/static/css/main.cd3c9414.css.map",
-    "main.a6e3a0e0.js.map": "/KRNL-New-Website/static/js/main.a6e3a0e0.js.map",
-    "431.073e8206.chunk.js.map": "/KRNL-New-Website/static/js/431.073e8206.chunk.js.map",
-    "147.473ebb77.chunk.js.map": "/KRNL-New-Website/static/js/147.473ebb77.chunk.js.map",
-    "787.cf28d026.chunk.js.map": "/KRNL-New-Website/static/js/787.cf28d026.chunk.js.map",
-    "656.486dc37c.chunk.js.map": "/KRNL-New-Website/static/js/656.486dc37c.chunk.js.map"
+    "main.5029a25c.css.map": "/KRNL-New-Website/static/css/main.5029a25c.css.map",
+    "main.397ca8b7.js.map": "/KRNL-New-Website/static/js/main.397ca8b7.js.map",
+    "431.43a0c98f.chunk.js.map": "/KRNL-New-Website/static/js/431.43a0c98f.chunk.js.map",
+    "147.c1127c04.chunk.js.map": "/KRNL-New-Website/static/js/147.c1127c04.chunk.js.map",
+    "182.125062ef.chunk.js.map": "/KRNL-New-Website/static/js/182.125062ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd3c9414.css",
-    "static/js/main.a6e3a0e0.js"
+    "static/css/main.5029a25c.css",
+    "static/js/main.397ca8b7.js"
   ]
 }
